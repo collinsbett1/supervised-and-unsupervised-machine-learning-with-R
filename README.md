@@ -1,4 +1,5 @@
 # Supervised-and-unsupervised-machine-learning-with-R
+A link to the rpubs file of Supervised Machine Learning can be found [here](https://rpubs.com/CollinsSambai/883243)
 
 ## Supervised Machine Learning.
 ## 1. Defining the question.
